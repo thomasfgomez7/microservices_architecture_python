@@ -1,0 +1,2 @@
+# microservices_architecture_python
+This project demonstrates modern microservice patterns
